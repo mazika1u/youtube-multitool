@@ -1,0 +1,7 @@
+{
+    "comment_order": "random",  
+    "test_mode": true, 
+    "use_proxy": false,
+    "proxy_file": "proxies.txt",  
+    "retry_on_fail": 3  
+}
